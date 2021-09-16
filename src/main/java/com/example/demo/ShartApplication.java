@@ -10,4 +10,5 @@ public class ShartApplication {
 		SpringApplication.run(ShartApplication.class, args);
 	}
 		//Sanya hui sosi
+	// Added autho
 }
