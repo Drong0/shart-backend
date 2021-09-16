@@ -26,10 +26,10 @@ public class RESTController {
         return map;
     }
 
-    @PostMapping("/postData")
-    public ResponseEntity postData(@RequestBody Post post){
-        String res = post.setData(post);
-    }
+//    @PostMapping("/postData")
+//    public ResponseEntity postData(@RequestBody Post post){
+//       // String res = post.setData(post);
+//    }
 
 
 
